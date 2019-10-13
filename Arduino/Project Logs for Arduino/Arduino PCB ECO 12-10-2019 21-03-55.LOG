@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=D5-1
+Removed Pin From Net: NetName=IO13 Pin=R9-2
+Removed Member From Class: ClassName=Arduino Member=D5
+Removed Member From Class: ClassName=Arduino Member=R9
+Added Room: Name=Arduino
