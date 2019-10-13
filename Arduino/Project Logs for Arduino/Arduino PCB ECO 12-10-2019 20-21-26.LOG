@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+5V Pin=J3-B2
+Removed Pin From Net: NetName=RESET Pin=J3-B3
+Removed Pin From Net: NetName=+3.3V Pin=J3-B4
+Removed Pin From Net: NetName=+5V Pin=J3-B5
+Removed Pin From Net: NetName=GND Pin=J3-B6
+Removed Pin From Net: NetName=GND Pin=J3-B7
+Added Pin To Net: NetName=GND Pin=J3-B2
+Added Pin To Net: NetName=GND Pin=J3-B3
+Added Pin To Net: NetName=+5V Pin=J3-B4
+Added Pin To Net: NetName=+3.3V Pin=J3-B5
+Added Pin To Net: NetName=RESET Pin=J3-B6
+Added Pin To Net: NetName=+5V Pin=J3-B7
+Added Room: Name=Arduino

@@ -1,0 +1,76 @@
+Change Component Comment : Designator=Designator1 Old Comment=Comment New Comment=Arduino_Shield
+Change Component Designator: OldDesignator=Designator1 NewDesignator=J3
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=RX Pin=IC3-30
+Added Pin To Net: NetName=TX Pin=IC3-31
+Added Pin To Net: NetName=+5V Pin=J3-B2
+Added Pin To Net: NetName=RESET Pin=J3-B3
+Added Pin To Net: NetName=+3.3V Pin=J3-B4
+Added Pin To Net: NetName=+5V Pin=J3-B5
+Added Pin To Net: NetName=GND Pin=J3-B6
+Added Pin To Net: NetName=GND Pin=J3-B7
+Added Pin To Net: NetName=RX Pin=J3-C1
+Added Pin To Net: NetName=TX Pin=J3-C2
+Added Pin To Net: NetName=GND Pin=J3-D7
+Added Pin To Net: NetName=AREF Pin=J3-D8
+Added Pin To Net: NetName=RESET Pin=J3-E3
+Added Pin To Net: NetName=+5V Pin=J3-E4
+Added Pin To Net: NetName=GND Pin=J3-E6
+Added Pin To Net: NetName=AD0 Pin=IC3-23
+Added Pin To Net: NetName=AD0 Pin=J3-A1
+Added Net: Name=AD0
+Added Pin To Net: NetName=AD1 Pin=IC3-24
+Added Pin To Net: NetName=AD1 Pin=J3-A2
+Added Net: Name=AD1
+Added Pin To Net: NetName=AD2 Pin=IC3-25
+Added Pin To Net: NetName=AD2 Pin=J3-A3
+Added Net: Name=AD2
+Added Pin To Net: NetName=AD3 Pin=IC3-26
+Added Pin To Net: NetName=AD3 Pin=J3-A4
+Added Net: Name=AD3
+Added Pin To Net: NetName=IO2 Pin=IC3-32
+Added Pin To Net: NetName=IO2 Pin=J3-C3
+Added Net: Name=IO2
+Added Pin To Net: NetName=IO3 Pin=IC3-1
+Added Pin To Net: NetName=IO3 Pin=J3-C4
+Added Net: Name=IO3
+Added Pin To Net: NetName=IO4 Pin=IC3-2
+Added Pin To Net: NetName=IO4 Pin=J3-C5
+Added Net: Name=IO4
+Added Pin To Net: NetName=IO5 Pin=IC3-9
+Added Pin To Net: NetName=IO5 Pin=J3-C6
+Added Net: Name=IO5
+Added Pin To Net: NetName=IO6 Pin=IC3-10
+Added Pin To Net: NetName=IO6 Pin=J3-C7
+Added Net: Name=IO6
+Added Pin To Net: NetName=IO7 Pin=IC3-11
+Added Pin To Net: NetName=IO7 Pin=J3-C8
+Added Net: Name=IO7
+Added Pin To Net: NetName=IO8 Pin=IC3-12
+Added Pin To Net: NetName=IO8 Pin=J3-D1
+Added Net: Name=IO8
+Added Pin To Net: NetName=IO9 Pin=IC3-13
+Added Pin To Net: NetName=IO9 Pin=J3-D2
+Added Net: Name=IO9
+Added Pin To Net: NetName=IO10 Pin=IC3-14
+Added Pin To Net: NetName=IO10 Pin=J3-D3
+Added Net: Name=IO10
+Added Pin To Net: NetName=IO11 Pin=IC3-15
+Added Pin To Net: NetName=IO11 Pin=J3-D4
+Added Net: Name=IO11
+Added Pin To Net: NetName=IO12 Pin=IC3-16
+Added Pin To Net: NetName=IO12 Pin=J3-D5
+Added Net: Name=IO12
+Added Pin To Net: NetName=IO13 Pin=IC3-17
+Added Pin To Net: NetName=IO13 Pin=J3-D6
+Added Pin To Net: NetName=IO13 Pin=R9-2
+Added Net: Name=IO13
+Added Pin To Net: NetName=SCL Pin=IC3-28
+Added Pin To Net: NetName=SCL Pin=J3-A6
+Added Pin To Net: NetName=SCL Pin=J3-D10
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IC3-27
+Added Pin To Net: NetName=SDA Pin=J3-A5
+Added Pin To Net: NetName=SDA Pin=J3-D9
+Added Net: Name=SDA
+Added Member To Class: ClassName=Arduino Member=Component J3 Arduino_Shield
