@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=+5V Pin=C8-2
-Added Pin To Net: NetName=Vcc Pin=C8-2
-Added Room: Name=Arduino
