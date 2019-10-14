@@ -16,3 +16,8 @@
 
 # HTML Documents
 *.html
+
+# Folders
+History/
+Project Logs for Arduino/
+Project Outputs for Arduino/
