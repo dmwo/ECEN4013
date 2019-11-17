@@ -89,23 +89,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HLVDYKDB
 
 [Document4]
-DocumentPath=Arduino_4_Layer.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=Arduino_4_Layer.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,7 +267,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother MFC-L2707DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1204,7 +1187,7 @@ ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=Arduino_4_Layer.SchLib
 ComponentDesignItemID11=ATMega328P
 ComponentSymbolReference11=ATMega328P
-ComponentUpdate11=0
+ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=Arduino_4_Layer.SchLib
@@ -1252,7 +1235,7 @@ ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=Arduino_4_Layer.SchLib
 ComponentDesignItemID19=TVS_Diode
 ComponentSymbolReference19=TVS_Diode
-ComponentUpdate19=1
+ComponentUpdate19=0
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=Arduino_4_Layer.SchLib
@@ -1493,7 +1476,7 @@ ModelType14=PCBLIB
 ModelName14=TQFP
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=TSOP6
+ModelName15=TSOP-6
 ModelUpdate15=1
 ModelType16=PCBLIB
 ModelName16=VSSOP-10
