@@ -267,7 +267,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother MFC-L2707DW Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1187,13 +1187,13 @@ ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=Arduino_4_Layer.SchLib
 ComponentDesignItemID11=ATMega328P
 ComponentSymbolReference11=ATMega328P
-ComponentUpdate11=1
+ComponentUpdate11=0
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=Arduino_4_Layer.SchLib
 ComponentDesignItemID12=FTDI
 ComponentSymbolReference12=FTDI
-ComponentUpdate12=0
+ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=Arduino_4_Layer.SchLib
@@ -1473,7 +1473,7 @@ ModelType13=PCBLIB
 ModelName13=Switch
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=TQFP
+ModelName14=TQFP-32
 ModelUpdate14=1
 ModelType15=PCBLIB
 ModelName15=TSOP-6
