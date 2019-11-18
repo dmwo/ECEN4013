@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Arduino_4_Layer.PrjPcb]
+   Generated File[Arduino_4_Layer.TXT]
+   Generated File[Arduino_4_Layer.DRL]
+   Generated File[Arduino_4_Layer.LDP]
+   Generated File[Arduino_4_Layer.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:39:18 On 17/11/2019
